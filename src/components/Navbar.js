@@ -51,7 +51,7 @@ const Navbar = () => {
           isOpen ? "" : "hidden"
         }`}
       >
-        <a className="block text-sm px-2 py-4 font-semibold">Home</a>
+        <a className="block text-sm px-2 py-4 ">Home</a>
         <a className="block text-sm px-2 py-4 ">New</a>
         <a className="block text-sm px-2 py-4 ">Popular</a>
         <a className="block text-sm px-2 py-4 ">Trending</a>
